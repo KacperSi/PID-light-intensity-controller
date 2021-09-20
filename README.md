@@ -12,6 +12,7 @@ Used programming environment:
 -STM32CubeIDE
 -Qt
 
+The CMSIS-DSP package was used to implement the PID controller according to: https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html
 QserialPort library was used to support serial communication.
 
 Detailed discussion: https://youtu.be/Pf2mL_dkMzg
@@ -21,6 +22,7 @@ PL
 Zadaniem układu jest automatyczna regulacja natężenia światła.
 Układ zbudowany jest na płytce rozwojowej NUCLEO-F746ZG opartej na mikrokontrolerze STM32.
 
+Do implementacji regulatora PID wykorzystano pakiet CMSIS-DSP zgodnie z :https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html
 Do obsługi regulatora służy dedykowana aplikacja napisana w języku C++.
 
 Wykorzystane środowiska programistyczne:
