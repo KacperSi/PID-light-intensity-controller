@@ -13,6 +13,7 @@ Used programming environment:
 -Qt
 
 The CMSIS-DSP package was used to implement the PID controller according to: https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html
+
 QserialPort library was used to support serial communication.
 
 Detailed discussion: https://youtu.be/Pf2mL_dkMzg
