@@ -25,8 +25,8 @@ Układ zbudowany jest na płytce rozwojowej NUCLEO-F746ZG opartej na mikrokontro
 Do obsługi regulatora służy dedykowana aplikacja napisana w języku C++.
 
 Wykorzystane środowiska programistyczne:
--STM32CubeIDE
--Qt
+- STM32CubeIDE
+- Qt
 
 Do implementacji regulatora PID wykorzystano pakiet CMSIS-DSP zgodnie z : https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html
 
