@@ -9,8 +9,8 @@ The circuit is built on the NUCLEO-F746ZG development board based on the STM32 m
 A dedicated application written in C++ language is used to operate the regulator.
 
 Used programming environment:
--STM32CubeIDE
--Qt
+- STM32CubeIDE
+- Qt
 The CMSIS-DSP package was used to implement the PID controller according to: https://www.keil.com/pack/doc/CMSIS/DSP/html/group__PID.html
 
 QserialPort library was used to support serial communication.
