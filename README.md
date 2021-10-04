@@ -1,5 +1,5 @@
 # Light-intensity-controller-PID-
-Implementation of light intensity control using a STM32 microcontroller, a PID controller and a user application written in C++.
+The implementation of light intensity control using a STM32 microcontroller, a PID controller and a user application written in C++.
 
 ENG
 
